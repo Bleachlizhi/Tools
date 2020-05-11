@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1105686627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fec08cf6f2705135a6efdd443be75f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/FinalLua/LuaScripts/Config/Config.txt
+Dependencies: []

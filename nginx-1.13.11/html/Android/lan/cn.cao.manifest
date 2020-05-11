@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1130582243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc86b2b17839fb93a524b60e5f1327c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Lan/CN.xml
+Dependencies: []

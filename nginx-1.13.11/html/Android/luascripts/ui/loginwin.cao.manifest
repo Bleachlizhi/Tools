@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 873697016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec5895ec7bfe636608b284c36ce7fbcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/FinalLua/LuaScripts/UI/LoginWin.txt
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3107351840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9a5a5be905465ed2091d87e87bab449
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/FinalLua/LuaScripts/FairyGUI.txt
+Dependencies: []

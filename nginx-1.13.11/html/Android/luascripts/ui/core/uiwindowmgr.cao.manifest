@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 999227817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e04f1c2f5c44ddaf969cf307119414c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/FinalLua/LuaScripts/UI/Core/UIWindowMgr.txt
+Dependencies: []

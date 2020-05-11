@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2557115341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25f7edb0a7e4f742efd973bc6e9c5ab9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/FinalLua/LuaScripts/Debug.txt
+Dependencies: []

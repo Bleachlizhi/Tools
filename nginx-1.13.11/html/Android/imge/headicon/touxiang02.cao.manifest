@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1005138479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 160e9a8baf3415619644ea18a1ee329a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Imge/HeadIcon/touxiang02.png
+Dependencies: []

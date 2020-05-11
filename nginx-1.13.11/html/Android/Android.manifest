@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1804458823
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: imge/headicon/touxiang02.cao
+      Dependencies: {}
+    Info_1:
+      Name: imge/headicon/touxiang01.cao
+      Dependencies: {}
+    Info_2:
+      Name: ui/lrspackage_atlas0.cao
+      Dependencies: {}
+    Info_3:
+      Name: testres/_refcount/newmaterial.cao
+      Dependencies: {}
+    Info_4:
+      Name: testres/_refcount/sphere.cao
+      Dependencies:
+        Dependency_0: testres/_refcount/newmaterial.cao
+    Info_5:
+      Name: testres/_refcount/cube.cao
+      Dependencies:
+        Dependency_0: testres/_refcount/newmaterial.cao
+    Info_6:
+      Name: testres/111.cao
+      Dependencies: {}
+    Info_7:
+      Name: ui/lrspackage_fui.cao
+      Dependencies: {}
+    Info_8:
+      Name: lan/cn.cao
+      Dependencies: {}
+    Info_9:
+      Name: lan/en.cao
+      Dependencies: {}
+    Info_10:
+      Name: luascripts/debug.cao
+      Dependencies: {}
+    Info_11:
+      Name: luascripts/fairygui.cao
+      Dependencies: {}
+    Info_12:
+      Name: luascripts/main.cao
+      Dependencies: {}
+    Info_13:
+      Name: luascripts/config/config.cao
+      Dependencies: {}
+    Info_14:
+      Name: luascripts/ui/friendwin.cao
+      Dependencies: {}
+    Info_15:
+      Name: luascripts/ui/loginwin.cao
+      Dependencies: {}
+    Info_16:
+      Name: luascripts/ui/noticewin.cao
+      Dependencies: {}
+    Info_17:
+      Name: luascripts/ui/core/timer.cao
+      Dependencies: {}
+    Info_18:
+      Name: luascripts/ui/core/uiwindowmgr.cao
+      Dependencies: {}
+    Info_19:
+      Name: luascripts/ui/core/windowbase.cao
+      Dependencies: {}

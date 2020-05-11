@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1609925400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ab5f3f7abe028345af80d1185ad3c96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/LrsPackage_atlas0.png
+Dependencies: []

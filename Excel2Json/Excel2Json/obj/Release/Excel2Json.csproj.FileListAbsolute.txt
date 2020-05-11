@@ -1,0 +1,15 @@
+E:\百鬼杀工具\Excel2Json\Excel2Json\bin\Release\Excel2Json.exe.config
+E:\百鬼杀工具\Excel2Json\Excel2Json\bin\Release\Excel2Json.exe
+E:\百鬼杀工具\Excel2Json\Excel2Json\bin\Release\Excel2Json.pdb
+E:\百鬼杀工具\Excel2Json\Excel2Json\bin\Release\Newtonsoft.Json.dll
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Interop.Excel.dll
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Interop.Office.dll
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Interop.VBIDE.dll
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.csproj.ResolveComReference.cache
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.Excel2JSON工具.resources
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.Properties.Resources.resources
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.csproj.GenerateResource.cache
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.csproj.CoreCompileInputs.cache
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.csproj.CopyComplete
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.exe
+E:\百鬼杀工具\Excel2Json\Excel2Json\obj\Release\Excel2Json.pdb
